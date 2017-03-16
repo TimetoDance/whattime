@@ -283,7 +283,7 @@ body {
 	position: absolute;
 	padding: 0 0 0 0;
 	margin: 41px 0 0 329px;
-	font-size: 10pt;
+	font-size: 10pt !important;
 	width: 614px;
 }
 
@@ -341,7 +341,7 @@ body {
 	position: absolute;
 	color: #FFF;
 	width: 950px;
-	font-size: 8pt;
+	font-size: 8pt !important;
 }
 #userinfo_major {
 	position: absolute;
