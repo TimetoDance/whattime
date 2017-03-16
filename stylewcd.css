@@ -309,7 +309,7 @@ body {
 	background-image: url('https://redacted.ch/static/styles/zeal/images/nav_matrix.png');
 	background-repeat: no-repeat;
 	height: 26px;
-	text-indent: -9999px;
+	text-indent: 0px;
 	outline: none;
 }
 
@@ -322,7 +322,8 @@ body {
 	border-bottom: 3px solid #383838;
 }
 
-#index #nav_index a, #torrents #nav_torrents a, #collage #nav_collages a, #requests #nav_requests a, #forums #nav_forums a, #chat #nav_irc a, #top10 #nav_top10 a, #rules #nav_rules a, #wiki #nav_wiki a, #staff #nav_staff a {
+#index #nav_index a, #torrents #nav_torrents a, #collage #nav_collages a, #requests #nav_requests a, #forums #nav_forums a, #chat #nav_irc a, #top10 #nav_top10 a, #rules #nav_rules a, #wiki #nav_wiki a, #
+#nav_staff a {
 	border-bottom: 3px solid #FFCF00;
 }
 
