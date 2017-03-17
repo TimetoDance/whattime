@@ -396,7 +396,7 @@ body {
 #nav_bookmarks a { background-position: -251px 0px; width: 94px; } #nav_bookmarks a:hover, #bookmarks #nav_bookmarks a { background-position: -251px -26px; }
 #nav_notifications a { background-position: -349px 0px; width: 101px; } #nav_notifications a:hover, #notifications #nav_notifications a { background-position: -349px -26px; }
 #nav_subscriptions a { background-position: -349px 0px; width: 105px; } #nav_subscriptions a:hover, #userhistory #nav_subscriptions a { background-position: -349px -26px; }
-#nav_posts a { background-position: -349px 0px; width: 105px; } #nav_posts a:hover, #userhistory #nav_posts a { background-position: -349px -26px; }
+#nav_posts a { background-position: -457px 0px; width: 62px; } #nav_posts a:hover, #userhistory #nav_posts a { background-position: -457px -26px; }
 #nav_comments a { background-position: -562px 0px; width: 99px; } #nav_comments a:hover, #comments #nav_comments a { background-position: -562px -26px; }
 #nav_friends a { background-position: -664px 0px; width: 74px; } #nav_friends a:hover, #friends #nav_friends a { background-position: -664px -26px; }
 #nav_better a { background-position: -349px 0px; width: 105px; } #nav_better a:hover, #userhistory #nav_better a { background-position: -349px -26px; }
