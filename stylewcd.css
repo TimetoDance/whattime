@@ -399,7 +399,7 @@ body {
 #nav_posts a { background-position: -457px 0px; width: 62px; } #nav_posts a:hover, #userhistory #nav_posts a { background-position: -457px -26px; }
 #nav_comments a { background-position: -522px 0px; width: 97px; } #nav_comments a:hover, #comments #nav_comments a { background-position: -522px -26px; }
 #nav_friends a { background-position: -623px 0px; width: 73px; } #nav_friends a:hover, #friends #nav_friends a { background-position: -623px -26px; }
-#nav_better a { background-position: -349px 0px; width: 105px; } #nav_better a:hover, #userhistory #nav_better a { background-position: -349px -26px; }
+#nav_better a { background-position: -701px 0px; width: 64px; } #nav_better a:hover, #userhistory #nav_better a { background-position: -701px -26px; }
 
 #userinfo img {
 	margin-top: -5px;
