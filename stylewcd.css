@@ -337,7 +337,7 @@ body {
 #nav_wiki a { background-position: -507px 0; width: 57px; } #nav_wiki a:hover, #wiki #nav_wiki a { background-position: -507px -26px; }
 #nav_staff a { background-position: -564px 0; width: 50px; } #nav_staff a:hover, #staff #nav_staff a { background-position: -564px -26px; }
 
-#nav_irc { margin-right: 10px !important; }
+#nav_irc { margin-right: 25px !important; }
 
 #userinfo {
 	position: absolute;
