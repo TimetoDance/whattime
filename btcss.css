@@ -363,16 +363,16 @@ ul.thin li {
 	margin:0;
 	background-image:url('http://imgur.com/a/d7pdv');
 	background-repeat:no-repeat;
-	background-position:center center
+	background-position:center center;
 }
 #logo a {
 	border:0;
 	width:960px;
 	height:100px;
-	display:block
+	display:block;
 }
 #logo a:hover {
-	border:0
+	border:0;
 }
 #quickpost {
 	color:#eee!important;
